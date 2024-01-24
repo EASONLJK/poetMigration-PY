@@ -22,7 +22,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # 1、在GitHub上修改完后记得保存
 
-# 2、输入pwd确认位置后，输入git pull origin
+# 2、输入pwd确认位置后，输入git pull origin+分支名称
 
 # 3、查看本地是否更新成功
 
