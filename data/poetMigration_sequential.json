@@ -1,0 +1,130 @@
+[
+    {
+        "year": 1126,
+        "avg":0,
+        "stayPoets": 659,
+        "inPoets": 641,
+        "outPoets": 641,
+        "noChangePoets": 342
+    },
+    {
+        "year": 1136,
+        "avg":0,
+        "stayPoets": 633,
+        "inPoets": 304,
+        "outPoets": 309,
+        "noChangePoets": 434
+    },
+    {
+        "year": 1146,
+        "avg":0,
+        "stayPoets": 480,
+        "inPoets": 196,
+        "outPoets": 197,
+        "noChangePoets": 352
+    },
+    {
+        "year": 1156,
+        "avg":0,
+        "stayPoets": 346,
+        "inPoets": 257,
+        "outPoets": 258,
+        "noChangePoets": 193
+    },
+    {
+        "year": 1166,
+        "avg":0,
+        "stayPoets": 256,
+        "inPoets": 283,
+        "outPoets": 283,
+        "noChangePoets": 138
+    },
+    {
+        "year": 1176,
+        "avg":0,
+        "stayPoets": 201,
+        "inPoets": 217,
+        "outPoets": 213,
+        "noChangePoets": 123
+    },
+    {
+        "year": 1186,
+        "avg":0,
+        "stayPoets": 164,
+        "inPoets": 199,
+        "outPoets": 199,
+        "noChangePoets": 89
+    },
+    {
+        "year": 1196,
+        "avg":0,
+        "stayPoets": 105,
+        "inPoets": 44,
+        "outPoets": 44,
+        "noChangePoets": 80
+    },
+    {
+        "year": 1206,
+        "avg":0,
+        "stayPoets": 20,
+        "inPoets": 19,
+        "outPoets": 19,
+        "noChangePoets": 5
+    },
+    {
+        "year": 1216,
+        "avg":0,
+        "stayPoets": 12,
+        "inPoets": 15,
+        "outPoets": 15,
+        "noChangePoets": 7
+    },
+    {
+        "year": 1226,
+        "avg":0,
+        "stayPoets": 0,
+        "inPoets": 0,
+        "outPoets": 0,
+        "noChangePoets": 0
+    },
+    {
+        "year": 1236,
+        "avg":0,
+        "stayPoets": 0,
+        "inPoets": 0,
+        "outPoets": 0,
+        "noChangePoets": 0
+    },
+    {
+        "year": 1246,
+        "avg":0,
+        "stayPoets": 1,
+        "inPoets": 0,
+        "outPoets": 0,
+        "noChangePoets": 0
+    },
+    {
+        "year": 1256,
+        "avg":0,
+        "stayPoets": 0,
+        "inPoets": 0,
+        "outPoets": 0,
+        "noChangePoets": 0
+    },
+    {
+        "year": 1266,
+        "avg":0,
+        "stayPoets": 0,
+        "inPoets": 0,
+        "outPoets": 0,
+        "noChangePoets": 0
+    },
+    {
+        "year": 1276,
+        "avg":0,
+        "stayPoets": 60,
+        "inPoets": 12,
+        "outPoets": 12,
+        "noChangePoets": 0
+    }
+]
